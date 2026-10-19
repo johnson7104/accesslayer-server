@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1078-implement-supply-milestone-indexer-and",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1078-implement-supply-milestone-indexer-and": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1078-implement-supply-milestone-indexer-and",
+    "origin"
+  ]
+}
